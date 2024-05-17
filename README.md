@@ -1,10 +1,12 @@
-# Information Cartgoraphy Toolbox Releases
+# Information Cartography Toolbox Releases
 This repository contain releases of the information cartography toolbox
 
 ## Release instructions
 
 1. git commit --allow-empty
-1. git tag '2.x'
+2. git tag '202x.xx'   #year-month
+
+Add the toolbox zip file model2diagram-202x.xx to the tags assets
 
 ## Documentation
 
